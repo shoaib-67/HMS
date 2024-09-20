@@ -1,5 +1,5 @@
 
-Hospital management system
+//Hospital management system
 #include<stdio.h>
 #include<string.h>
 struct ad
